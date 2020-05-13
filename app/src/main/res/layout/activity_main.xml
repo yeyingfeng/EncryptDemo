@@ -20,4 +20,11 @@
         android:layout_margin="10dp"
         android:text="MD5"/>
 
+    <Button
+        android:id="@+id/check_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="checkout"/>
+
 </LinearLayout>
